@@ -1,5 +1,8 @@
 # nxlog-task
 
+Script will download png images found on url provided to apropriate directory.
+
+URL and DEST_DIR parameters are required parameters.
 ## Install requirements
 ```bash
 pip install -r requirements.txt
